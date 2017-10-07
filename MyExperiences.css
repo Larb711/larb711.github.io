@@ -1,0 +1,61 @@
+Body{
+   background-image: url(20170402_193906.jpg);
+       height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    border: aliceblue;
+    font-size: 20px;
+     margin-left: 200px;
+    margin-right: 200px;
+}
+h1{
+   text-align: center;
+    margin-top:100px;
+    color:;
+ font-size: 50px;
+    font-family:inherit;   
+}
+
+.home {
+    background-color: ;
+    border: ;
+    color: ;
+     padding: 5px 10px;
+    text-align: center;
+       font-family:monospace;
+    display: 
+        block;
+    font-size: 16px;
+      position: absolute;
+    right: 287px;
+    top: 30px;
+}
+.aboutme {
+    background-color: ;
+    border: ;
+    color: ;
+    padding: 5px 10px;
+    text-align: center;
+    font-family:monospace;
+    display: 
+        block;
+    font-size: 16px;
+  position: absolute;
+    right: 185px;
+    top: 30px;
+}
+.myexperiences {
+    background-color: ;
+    border: ;
+    color: ;
+     padding: 5px 10px;
+    text-align: center;
+       font-family:monospace;
+    display: 
+        block;
+    font-size: 16px;
+     position: absolute;
+    right: 30px;
+    top:30px;
+}
